@@ -20,4 +20,4 @@
 
 -- Once you start recognizing these patterns, SQL stops feeling like syntax and starts feeling like problem-solving
 
--- #SQL #DataAnalytics #MySQL #DataAnalyst #LearningInPublic
+-- #SQL #MySQL #DataAnalytics #DataAnalyst #LearningInPublic
