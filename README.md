@@ -1,4 +1,4 @@
--- E-commerce Practice Database (2026 Edition)
+# E-commerce Practice Database (2026 Edition)
 
 -- Customers: 60 | Products: 55 | Orders: 850
 
